@@ -22,3 +22,7 @@ This project analyzes the Titanic dataset using python, Pandas and Matplotlib.
     - pandas
     - Matplotlib
     - Kaggle Notebook
+
+## Project Files
+- Titanic_EDA_project.ipynb : Complete analysis notebook
+-  READ.md : project documentation
